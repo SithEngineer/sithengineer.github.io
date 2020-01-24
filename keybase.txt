@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/sithengineer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sithengineer.github.io
+  * I am sithengineer (https://keybase.io/sithengineer) on keybase.
+  * I have a public key ASCL41OeNaqXUajW6fmHZ52L2AEHgTlaErtAqlVOY1sJfwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208be3539e35aa9751a8d6e9f987679d8bd8010781395a12bb40aa554e635b097f0a",
+      "host": "keybase.io",
+      "kid": "01208be3539e35aa9751a8d6e9f987679d8bd8010781395a12bb40aa554e635b097f0a",
+      "uid": "f4749c84086d35b446e4f733647a5519",
+      "username": "sithengineer"
+    },
+    "merkle_root": {
+      "ctime": 1509996886,
+      "hash": "0abed05f5a8763d89278c56c97dc1875c1d304a9a6cb108383f317a02b130980f9c185c2737a83f0215ea6cc2112e6d688c649559ac3302642da090d3622adab",
+      "hash_meta": "2325b4762de1b0cbec25f85d5572bd3e1419958a427a8d1ca23fe45899c66d47",
+      "seqno": 1673317
+    },
+    "service": {
+      "hostname": "sithengineer.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509999022,
+  "expire_in": 504576000,
+  "prev": "bc4c17c04e593976a87998e480048db003343758252bb7d25123502e6b0ac3f3",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi+NTnjWql1Go1un5h2edi9gBB4E5WhK7QKpVTmNbCX8Kp3BheWxvYWTFA1N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGJlMzUzOWUzNWFhOTc1MWE4ZDZlOWY5ODc2NzlkOGJkODAxMDc4MTM5NWExMmJiNDBhYTU1NGU2MzViMDk3ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGJlMzUzOWUzNWFhOTc1MWE4ZDZlOWY5ODc2NzlkOGJkODAxMDc4MTM5NWExMmJiNDBhYTU1NGU2MzViMDk3ZjBhIiwidWlkIjoiZjQ3NDljODQwODZkMzViNDQ2ZTRmNzMzNjQ3YTU1MTkiLCJ1c2VybmFtZSI6InNpdGhlbmdpbmVlciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwOTk5Njg4NiwiaGFzaCI6IjBhYmVkMDVmNWE4NzYzZDg5Mjc4YzU2Yzk3ZGMxODc1YzFkMzA0YTlhNmNiMTA4MzgzZjMxN2EwMmIxMzA5ODBmOWMxODVjMjczN2E4M2YwMjE1ZWE2Y2MyMTEyZTZkNjg4YzY0OTU1OWFjMzMwMjY0MmRhMDkwZDM2MjJhZGFiIiwiaGFzaF9tZXRhIjoiMjMyNWI0NzYyZGUxYjBjYmVjMjVmODVkNTU3MmJkM2UxNDE5OTU4YTQyN2E4ZDFjYTIzZmU0NTg5OWM2NmQ0NyIsInNlcW5vIjoxNjczMzE3fSwic2VydmljZSI6eyJob3N0bmFtZSI6InNpdGhlbmdpbmVlci5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUwOTk5OTAyMiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJiYzRjMTdjMDRlNTkzOTc2YTg3OTk4ZTQ4MDA0OGRiMDAzMzQzNzU4MjUyYmI3ZDI1MTIzNTAyZTZiMGFjM2YzIiwic2Vxbm8iOjMwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAL6Czx3A0X1Iuo60RxcfcXy5RpYPJInHhdjWQMbAzgzDfTivSgdxI+HUh/wYJIcLRDwufcGqJ1rXWWc1mMQFg2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCA5zWdnvb2ktVKswFxmaccscl2fXJ4/ZEtBcE8oy7xwcKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sithengineer
+
+==================================================================
