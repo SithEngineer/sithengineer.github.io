@@ -1,0 +1,20 @@
+# Fábio Dias — Software Engineer
+
+> Backend Developer specialized in Go, Kotlin, and distributed systems.
+> 10+ years building scalable microservices and leading engineering teams.
+> Based in Lisbon, Portugal.
+
+## Sections
+- [Professional Experience](https://sithengineer.github.io/#experience): 8+ roles from Android to Go backend and team lead
+- [Education](https://sithengineer.github.io/#education): Postgraduate and Bachelor's in Computer Science Engineering
+- [Activities & Achievements](https://sithengineer.github.io/#activities): Conference paper, competition wins, coursework
+
+## Contact
+- GitHub: https://github.com/sithengineer
+- LinkedIn: https://linkedin.com/in/fabioasdias
+- Location: Lisbon, Portugal
+- Email: through personal site
+
+## Optional
+- Content is rendered via JavaScript; requires scripting enabled for full experience
+- Site uses Cloudflare Web Analytics for anonymous page view measurement
